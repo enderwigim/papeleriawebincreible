@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+.total{
+    background: #18181b;
+    display: flex;
+    
+}
+
+
+
+
+
+#signup{  
+    display: grid;
+    margin: auto;
+    margin-top: 20px;
+    min-width: 200px ;
+    max-width: 500px;
+    justify-content: center;
+    border-radius: 10px;
+    background: white;
+    border: 1pt grey solid;
+    box-shadow: 15px, 5px, 15px;
+}
+
+
+
+
+.subtitform{
+    font-size: 3em;
+    font-family: Caveat;
+    color: #18181b;
+    text-align: center;
+    padding-top: 5%;
+}
+
+
+  
+  .containerleo {
+    min-height: 10vh;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+  }
+  
+  .container div > p span {
+    color: red;
+  }
+  
+  p {
+    position: relative;
+    top: 3px;
+  }
+  
+  p a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  button {
+    text-decoration: none;
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 600;
+    margin: 10px;
+    width: 200px;
+    padding: 10px 0;
+    box-shadow: 0 0 20px rgb(177, 59, 59);
+    transition: 0.4s;
+  }
+
+  .enlacesleo{
+    text-decoration: none;
+    
+  }
+  
+  .reg {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(177, 59, 59);
+  }
+  
+  .log {
+    text-decoration: none;
+    color: rgb(177, 59, 59);
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgb(177, 59, 59);
+  }
+  
+  button:hover {
+    color: white;
+    
+    box-shadow: 0 0 20px rgb(177, 59, 59);
+    background-color: rgb(177, 59, 59);
+  }
+  
+
+
+.datpers{
+    margin: 5%;
+    width: 80%;
+    background: transparent;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+    border-bottom: 1pt rgb(177, 59, 59) solid;
+    margin-top: 10px;
+}
+
+.password{
+    margin: 5%;
+    width: 80%;
+    background: transparent;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+    border-bottom: 1pt rgb(177, 59, 59) solid;
+    margin-top: 10px;
+}
+
+.btnsignup{
+    margin: 5%;
+    width: 90%;
+    height: 50px;
+    background-color: rgb(177, 59, 59);
+    border-radius: 10px;
+    border: 1pt rgb(177, 59, 59);
+    margin-top: 10px;
+    color: white  
+}
+
+.linklogin{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    
+    text-decoration: none;
+    color: black;
+}
+
+.linklogin:hover{
+    color: #751C1C;
+    font-size: 15px;
+}
+
+
+
+.texto-o-{
+    text-align: center;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.signupgoogle{
+    
+    margin: 5%;
+    width: 90%;
+    height: 50px;
+    background-color: red;
+    border-radius: 10px;
+    border: 1pt red;
+    margin-top: 10px;
+    color: white  
+}
+
+.signupfacebook{
+    margin: 5%;
+    width: 90%;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    border: 1pt blue;
+    margin-top: 10px;
+    color: white  
+}
+
+
+
+.borrador{
+    background: url(borrador.jpeg) no-repeat 0;
+    height: 800px;
+}
