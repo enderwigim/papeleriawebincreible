@@ -432,3 +432,110 @@ footer .column > a:hover{
     font-size: 0.8rem;
     text-align: center;
 }
+.div1 {
+    background-color: white;
+    height: 170px;
+    width: 800px;
+    left: 50px;
+    position: relative;
+    top: 150px;
+    border-radius: 10px;
+    
+    }
+    .div2 {
+    background-color: white;
+    height: 200px;
+    width: 800px;
+    left: 50px;
+    position: relative;
+    top: 220px;
+    border-radius: 10px;
+        
+    }
+    .div3 {
+    background-color: white;
+    height: 200px;
+    width: 800px;
+    left: 50px;
+    position: relative;
+    top: 300px;
+    border-radius: 10px;
+            
+    }
+    .div4 {
+       
+    background-color: white;
+    height: 210px;
+    width: 800px;
+    left: 900px;
+    position: absolute;
+    top: 363px;
+    border-radius: 10px;
+                        
+    }
+
+    .googlemaps {
+        top: 600px;
+        position: absolute;
+        width: 800px;
+        height: 500px;
+        left: 900px;
+        border-radius: 10px;
+    }
+    .p1 {
+        
+        
+        right:30px;
+        left: 30px;
+        position: absolute; 
+        font-size: 20px;
+        text-align: justify;
+        
+    }
+    .divimg {
+        size: 59px;
+        width: 800px;
+        left: -3px;
+        top: 211px;
+        position: relative;
+    }
+    .img {
+        height: 229px;
+        width: 805px;
+        border-radius: 10px;
+    }
+    
+    .divtitulo1 {
+        font-family: 'Lato', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+        top: 112px;
+        left: 57px;
+        color: gray;
+        font-size: 30px;
+    
+    }
+    .divtitulo2 {
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+        top: 112px;
+        left: 57px;
+        color: gray;
+        font-size: 30px;   
+    }
+    .divtitulo3 {
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+        top: 112px;
+        left: 57px;
+        color: gray;
+        font-size: 30px;   
+    }
+    .divtitulo4 {
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+        top: 112px;
+        left: 57px;
+        color: gray;
+        font-size: 30px;    
+    }
