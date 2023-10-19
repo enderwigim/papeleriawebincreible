@@ -433,49 +433,49 @@ footer .column > a:hover{
     text-align: center;
 }
 .div1 {
-    background-color: white;
+    color: white;
     height: 170px;
     width: 800px;
     left: 50px;
     position: relative;
-    top: 150px;
+    top: 70px;
     border-radius: 10px;
     
     }
     .div2 {
-    background-color: white;
-    height: 200px;
+        color: white;
+    height: 239px;
     width: 800px;
     left: 50px;
     position: relative;
-    top: 220px;
+    top: 118px;
     border-radius: 10px;
         
     }
     .div3 {
-    background-color: white;
-    height: 200px;
-    width: 800px;
-    left: 50px;
-    position: relative;
-    top: 300px;
-    border-radius: 10px;
+        color: white;
+        height: 240px;
+        width: 800px;
+        left: 50px;
+        position: relative;
+        top: 183px;
+        border-radius: 10px;
             
     }
     .div4 {
        
-    background-color: white;
-    height: 210px;
-    width: 800px;
-    left: 900px;
-    position: absolute;
-    top: 363px;
-    border-radius: 10px;
+        color: white;
+        height: 210px;
+        width: 800px;
+        left: 872px;
+        position: absolute;
+        top: 284px;
+        border-radius: 10px;
                         
     }
 
     .googlemaps {
-        top: 600px;
+        top: 508px;
         position: absolute;
         width: 800px;
         height: 500px;
