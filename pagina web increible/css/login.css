@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap');
+
+
+.total{
+    background: #18181b;
+    display: flex;
+    
+}
+
+
+
+
+
+#signup{  
+    display: grid;
+    margin: auto;
+    margin-top: 200px;
+    margin-right: 290px;
+    min-width: 200px;
+    max-width: 500px;
+    justify-content: center;
+    border-radius: 10px;
+    background: white;
+    width: 600px;
+    height: 550px;
+    
+}
+
+
+
+
+.subtitform{
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+    color: #18181b;
+    text-align: center;
+    padding-top: 5%;
+    height: 120px;
+}
+
+
+  
+  .containerleo {
+    min-height: 15vh;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    
+    
+  }
+  
+  .container div > p span {
+    color: red;
+  }
+  
+  p {
+    position: relative;
+    top: 3px;
+  }
+  
+  p a {
+   
+    text-decoration: none;
+  }
+  
+  button {
+    text-decoration: none;
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 600;
+    margin: 10px;
+    width: 200px;
+    padding: 10px 0;
+    transition: 0.4s;
+  }
+
+  .enlacesleo{
+    text-decoration: none;
+    
+    
+  }
+  
+  .reg {
+    text-decoration: none;
+    color: white;
+    background-color: #a12727;
+  }
+  
+  .log {
+    text-decoration: none;
+    color: #a12727;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid #a12727;
+  }
+  
+  button:hover {
+    color: white;
+    
+    
+    background-color: #a12727;
+  }
+  
+
+
+.datpers{
+    margin: 5%;
+    width: 80%;
+    background: transparent;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+    border-bottom: 1pt #a12727 solid;
+    margin-top: 10px;
+}
+
+.password{
+    margin: 5%;
+    width: 80%;
+    background: transparent;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+    border-bottom: 1pt #a12727 solid;
+    margin-top: 10px;
+}
+
+.btnsignup{
+    margin: 5%;
+    width: 90%;
+    height: 50px;
+    background-color: #a12727;
+    border-radius: 10px;
+    border: 1pt #a12727;
+    margin-top: 10px;
+    color: white  
+}
+
+.linklogin{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    
+    text-decoration: none;
+    
+}
+
+.linklogin:hover{
+    color: #751C1C;
+    font-size: 15px;
+}
+
+
+
+.texto-o-{
+    text-align: center;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.signupgoogle{
+    
+    margin: 5%;
+    width: 90%;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+
+.signupgoogle:hover{
+
+  color: white;
+  background-color: red;
+  border-color: red;
+  transition: all 0.3s ease;
+  border-style: none;
+
+}
+
+.signupfacebook{
+    margin: 5%;
+    width: 90%;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    border: 1pt blue;
+    margin-top: 10px;
+    color: white  
+}
+
+
+
+.borrador{
+    background: url(borrador.jpeg) no-repeat 0;
+    height: 800px;
+}
+
+
+footer {
+
+  position: relative;
+  display: grid;
+  grid-template-columns: 400px repeat(3,1fr);
+  gap: 2rem;
+}
+
+footer .column .logo {
+
+  max-width: 112px;
+  margin-bottom: 2rem;
+
+}
+
+footer .column p{
+
+  color: #ccc;
+  margin-bottom: 2rem;
+
+}
+
+footer .column .socials{
+
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+}
+
+footer .column .socials a{
+
+  color: #ccc;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  font-size: 1.25rem;
+  border-radius: 100%;
+  transition: all 0.3s ease;
+  
+}
+
+footer .column .socials a:hover{
+
+  color: #fff;
+  background-color: #a12727;
+  border-color: #a12727;
+
+}
+
+footer .column h4{
+
+  color: #fff;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+footer .column > a{
+
+  display: block;
+  color: #ccc;
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+  
+}
+
+footer .column > a:hover{
+
+  color: #a12727;
+
+}
+
+.copyright {
+
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem;
+  color: #fff;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+*{
+
+  padding: 0;
+  margin: 0;
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+}
+
+html{
+
+scroll-behavior: smooth;
+
+}
+
+
+img {
+
+  width: 100%;
+  display: flex;
+
+}
+
+a{
+
+  text-decoration: none;
+
+}
+
+body {
+
+  font-family: 'Poppins', sans-serif;
+  background-color: #18181b;
+}
+
+nav{
+
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-top: -30px;
+  margin-left: -10px;
+}
+
+.nav-logo{
+
+  max-width: 150px;
+
+}
+
+.nav-links{
+
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+
+}
+
+.link a{
+
+  position: relative;
+  padding-bottom: 0.75rem;
+  color: #fff;
+
+}
+
+.link a::after{
+
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #a12727;
+  transition: all 0.3s ease;
+
+
+}
+
+.link a:hover::after{
+
+  width: 100%;
+
+}
+
+.btn{
+
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #a12727;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+}
+
+.btn:hover{
+
+  background-color: #751c1c;
+
+
+}
+
+.container{
+
+  max-width: 1200px;
+  margin: auto;
+  padding: 5rem 2rem;
+
+}
+
+.blur{
+
+  position: absolute;
+  box-shadow: 0 0 1000px 50px #ff0000;
+  z-index: -100;
+}
+
+header {
+
+  position: relative;
+  padding-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  gap: 2rem;
+}
+
+  
